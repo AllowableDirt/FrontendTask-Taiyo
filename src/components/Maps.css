@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+    .lg\:w-3\/4 {
+      width: 100%; /* Override the width to 100% */
+    }
+  }
